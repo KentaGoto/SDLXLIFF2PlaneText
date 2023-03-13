@@ -1,0 +1,17 @@
+# Secret
+*.pw
+
+# Office
+*.xls
+*.xlsx
+*.xlsm
+*.doc
+*.docx
+*.docm
+*.ppt
+*.pptx
+*.pptm
+
+# Sample file
+*.sdlxliff
+*.txt
