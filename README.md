@@ -8,6 +8,9 @@ Output source and target as tab-delimited text files from SDLXLIFF files.
 Dir: <DIR>
 ```
 
+## REQUIREMENTS  
+- Windows  
+
 ## LICENSE  
 MIT
 
