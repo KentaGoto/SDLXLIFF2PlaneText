@@ -1,4 +1,3 @@
-# Read SDLXLIFF format files.
 Param (
     [string]$FolderPath
 )
