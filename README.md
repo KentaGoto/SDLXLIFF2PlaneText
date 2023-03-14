@@ -4,7 +4,7 @@ Output source and target as tab-delimited text files from SDLXLIFF files.
 
 ## USAGE  
 ```cmd
-> ./Run.bat
+> .\Run.bat
 Dir: <DIR>
 ```
 
